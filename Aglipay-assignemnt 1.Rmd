@@ -8,7 +8,7 @@ output: pdf_document
 
 ##Assignment
 
-###1.  *What package are they talking about*
+###1.  *What  packages are they talking about*
 
 The package they are talking about is the New Quarto package in which in the video they are discussing the new features and the benefits it can give to the users.
 
