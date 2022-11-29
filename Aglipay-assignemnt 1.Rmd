@@ -1,0 +1,33 @@
+\-\--
+title: "Assignment, Hello Quarto video reflection"
+author: "Romilyn C. Aglipay"
+date: "\`r Sys.Date()\`"
+output: pdf_document
+\-\--
+
+
+##Assignment
+
+1.  *What package are they talking about*
+
+The package they are talking about is the New Quarto package in which in the video they are discussing the new features and the benefits it can give to the users.
+
+2.  \*Why there is a need ti shift from R mar said package?\*
+
+------------------------------------------------------------------------
+
+    It iuse R markdown is intrinsically bound to R, limiting the number of users who may benefit from it. While Quarto aims to significantly improve the process of developing and collaborating on scientific and technical documentation. In addition, there are numureus languages and runtimes used in scientific discourse and the Jupyter ecosystem in particular is extraordinarily popular. Indeed, Quarto is fundamentally multi-language and multi-engine. Moreover, Quarto, unlike R Markdown, has no R reliance or prerequisite.
+
+3. *What inspired/sparked the said shift*
+
+    Because they want to improve its funtionality, they developed Quarto in which it offers easier process.
+
+4. *Are you up to the challenge of this said shift, learning it and applying it in your future career as a math teacher?*
+
+    Honestly speaking, I don't think I'm up to the challenge of the aforementioned transition because until now, I don't fully know how to use R markdown itself. I suppose I needed more time to understand and still learn how to utilize it and be capable of doing it without prior guidance.
+
+    In applying it in my future career as a math teacher, I'm not sure about it because If I, myself, find it hard to learn for now, then how can i use it then. Maybe i find it hard because it is typically new to me in which I rather prefer to use the common Microsoft app because it is easier to use than R Studio or even Quarto wherein you need to memorize codes, install packages and learn how to use the packages you installed, and many more.
+
+5.  *What cool feature in the package did you like best? Please discuss. Thanks*
+   
+    What I like the best in the features in Quarto is that it has an extension system for adding functionality to format via short codes or filters, as well as the ability to construct bespoke formats. With Quarto, we can easily create a high quality articles, reports, presentations, PDFs, word documents, books, ePubs, and even entire website. Moreover, quarto has provided a lot of advances regarding references.
