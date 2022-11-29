@@ -12,7 +12,7 @@ output: pdf_document
 
 The package they are talking about is the New Quarto package in which in the video they are discussing the new features and the benefits it can give to the users.
 
-2.  *Why there is a need ti shift from R mar said package?*
+2.  *Why there is a need ti shift from R markdown said package?*
 
     It iuse R markdown is intrinsically bound to R, limiting the number of users who may benefit from it. While Quarto aims to significantly improve the process of developing and collaborating on scientific and technical documentation. In addition, there are numureus languages and runtimes used in scientific discourse and the Jupyter ecosystem in particular is extraordinarily popular. Indeed, Quarto is fundamentally multi-language and multi-engine. Moreover, Quarto, unlike R Markdown, has no R reliance or prerequisite.
 
